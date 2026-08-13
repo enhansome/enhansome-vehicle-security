@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:35:44Z",
+            "last_commit": "2026-08-13T12:16:14Z",
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63398
+            "stars": 63403
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2024-01-11T02:23:51Z",
             "owner": "openalpr",
             "repo": "openalpr",
-            "stars": 11443
+            "stars": 11442
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2025-10-07T16:04:54Z",
             "owner": "howerj",
             "repo": "dbcc",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T12:18:39Z",
+            "last_commit": "2026-08-13T13:15:01Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12466
+            "stars": 12468
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-07-01T00:10:31Z",
             "owner": "hardbyte",
             "repo": "python-can",
-            "stars": 1580
+            "stars": 1581
           }
         },
         {
@@ -386,7 +386,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:02:35Z",
+            "last_commit": "2026-08-13T10:55:42Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 209
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:04.751Z",
+    "last_updated": "2026-08-13T15:40:34.623Z",
     "original_repository": "jaredthecoder/awesome-vehicle-security",
     "original_repository_sha": "2228c9f842d0dcf2e5dd24c987e9f5602001f8a0",
     "enhanced_repository": "enhansome/enhansome-vehicle-security",
