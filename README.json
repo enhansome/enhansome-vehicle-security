@@ -1,494 +1,838 @@
 {
   "items": [
     {
-      "description": "Welcoming contributions!",
-      "items": [],
-      "title": "Newsletters"
-    },
-    {
-      "description": "Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.",
-      "items": [],
-      "title": "Podcasts and Episodes"
-    },
-    {
-      "description": "Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.",
+      "description": "These lists are related to a specific protocol that you will find in the world of car hacking.",
       "items": [
         {
           "node_type": "item",
-          "title": "openpilot",
-          "description": "openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.",
+          "title": "Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:13:40Z",
-            "owner": "commaai",
-            "repo": "openpilot",
-            "stars": 63446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openalpr",
-          "description": "An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-01-11T02:23:51Z",
-            "owner": "openalpr",
-            "repo": "openalpr",
-            "stars": 11447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tesla Mod",
-          "description": "Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T04:06:03Z",
-            "owner": "hypery11",
-            "repo": "flipper-tesla-fsd",
-            "stars": 1006
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CANalyzat0r",
-          "description": "A security analysis toolkit for proprietary car protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-21T11:06:07Z",
-            "owner": "schutzwerk",
-            "repo": "CANalyzat0r",
-            "stars": 793
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UDSim",
-          "description": "GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-12-10T07:27:54Z",
-            "owner": "zombieCraig",
-            "repo": "UDSim",
-            "stars": 333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CANToolz",
-          "description": "CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-31T08:59:11Z",
-            "owner": "eik00d",
-            "repo": "CANToolz",
-            "stars": 317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mazda_getInfo",
-          "description": "A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-05-31T09:07:24Z",
-            "owner": "shipcod3",
-            "repo": "mazda_getInfo",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "talking-with-cars",
-          "description": "CAN related scripts, and scripts to use a car as a gamepad",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-11T14:38:01Z",
-            "owner": "P1kachu",
-            "repo": "talking-with-cars",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BlackFlag ECU",
-          "description": "Professional ECU diagnostics and tuning suite with OBD-II scanning, DTC reading, live sensor monitoring, and reflash capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 313261022,
             "language": null,
-            "last_commit": "2026-02-27T05:47:27Z",
-            "owner": "bad-antics",
-            "repo": "blackflag-ecu",
-            "stars": 33
-          }
-        }
-      ],
-      "title": "Applications"
-    },
-    {
-      "description": "Libraries and tools that don't fall under the larger class of applications above.\nCustom Applications SDK for Mazda Connect Infotainment System - A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.",
-      "items": [],
-      "title": "Libraries and Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SocketCAN Utils",
-          "description": "Userspace utilites for SocketCAN on Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-12T13:48:35Z",
-            "owner": "linux-can",
-            "repo": "can-utils",
-            "stars": 2904
+            "last_commit": "2026-08-07T22:14:43Z",
+            "owner": "iDoka",
+            "repo": "awesome-canbus",
+            "stars": 3420
           }
         },
         {
           "node_type": "item",
-          "title": "dbcc",
-          "description": "\"dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages.\" With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.",
+          "title": "Awesome LIN Bus - an awesome list just for LIN-Bus related tools (hardware, software, etc.)",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-07T16:04:54Z",
-            "owner": "howerj",
-            "repo": "dbcc",
-            "stars": 455
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vircar",
-          "description": "a Virtual car userspace that sends CAN messages based on SocketCAN",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-09-07T07:34:08Z",
-            "owner": "duraki",
-            "repo": "virtualcar",
-            "stars": 158
+            "id": 344925173,
+            "language": null,
+            "last_commit": "2023-09-06T06:49:15Z",
+            "owner": "iDoka",
+            "repo": "awesome-linbus",
+            "stars": 245
           }
         }
       ],
-      "title": "C"
+      "title": "Related Lists"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "CANdevStudio",
-          "description": "Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.",
+          "title": "Open Source Car Control Project",
+          "description": "The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73134301,
             "language": "C++",
-            "last_commit": "2025-07-21T11:36:50Z",
-            "owner": "GENIVI",
-            "repo": "CANdevStudio",
-            "stars": 1141
+            "last_commit": "2019-12-10T18:04:57Z",
+            "owner": "PolySync",
+            "repo": "oscc",
+            "stars": 1037
           }
         },
         {
           "node_type": "item",
-          "title": "UnlockECU",
-          "description": "Free, open-source ECU seed-key unlocking tool.",
+          "title": "Open Vehicle Monitoring System",
+          "description": "A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-04T10:07:06Z",
-            "owner": "jglim",
-            "repo": "UnlockECU",
-            "stars": 441
+            "id": 2685002,
+            "language": "C",
+            "last_commit": "2021-08-07T08:19:55Z",
+            "owner": "openvehicles",
+            "repo": "Open-Vehicle-Monitoring-System",
+            "stars": 346
           }
-        },
-        {
-          "node_type": "item",
-          "title": "CanCat",
-          "description": "A \"swiss-army knife\" for interacting with live CAN data. Primary API interface in Python, but written in C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-07T17:39:32Z",
-            "owner": "atlas0fd00m",
-            "repo": "CanCat",
-            "stars": 217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "High Level ViWi Service",
-          "description": "High level Volkswagen CAN signaling protocol implementation.",
-          "children": []
         }
       ],
-      "title": "C++"
+      "title": "Projects"
     },
     {
-      "description": "",
+      "description": "Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research. This article goes through many of the options below.",
       "items": [
         {
           "node_type": "item",
-          "title": "Scapy",
-          "description": "A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the automotive doc",
+          "title": "AutoPi",
+          "description": "Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for vehicle telematics, CAN bus data collection, and automotive IoT applications.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136908152,
             "language": "Python",
-            "last_commit": "2026-08-18T06:54:00Z",
-            "owner": "secdev",
-            "repo": "scapy",
-            "stars": 12474
+            "last_commit": "2026-06-15T12:24:52Z",
+            "owner": "autopi-io",
+            "repo": "autopi-core",
+            "stars": 188
           }
         },
         {
           "node_type": "item",
-          "title": "cantools",
-          "description": "Python module to decode and encode CAN messages using a DBC file",
+          "title": "PiCCANTE",
+          "description": "Open-source CAN hacking tool based on Raspberry Pi Pico [2] (W) - Up to 3x CAN interfaces, includes ELM327 emulator.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:34:14Z",
-            "owner": "cantools",
-            "repo": "cantools",
-            "stars": 2268
+            "id": 957214701,
+            "language": "C++",
+            "last_commit": "2026-01-26T00:26:12Z",
+            "owner": "Alia5",
+            "repo": "PiCCANTE",
+            "stars": 92
           }
         },
         {
-          "node_type": "item",
-          "title": "Python-CAN",
-          "description": "Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-01T00:10:31Z",
-            "owner": "hardbyte",
-            "repo": "python-can",
-            "stars": 1584
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python-OBD",
-          "description": "A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-07T05:17:34Z",
-            "owner": "brendan-w",
-            "repo": "python-OBD",
-            "stars": 1306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "canmatrix",
-          "description": "Python module to work with CAN matrix files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T07:57:35Z",
-            "owner": "ebroecker",
-            "repo": "canmatrix",
-            "stars": 1086
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Caring Caribou",
-          "description": "Intended to be the nmap of vehicle security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-12T23:35:05Z",
-            "owner": "CaringCaribou",
-            "repo": "caringcaribou",
-            "stars": 942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CANard",
-          "description": "A Python framework for Controller Area Network applications.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-12-03T21:51:27Z",
-            "owner": "linklayer",
-            "repo": "pyvit",
-            "stars": 514
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CanoPy",
-          "description": "A python gui used to visualize and plot message payloads in real time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-23T15:14:01Z",
-            "owner": "Tbruno25",
-            "repo": "can-explorer",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CanCat",
-          "description": "A \"swiss-army knife\" for interacting with live CAN data. Primary API interface in Python, but written in C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-07T17:39:32Z",
-            "owner": "atlas0fd00m",
-            "repo": "CanCat",
-            "stars": 217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jumpstarter",
-          "description": "A hardware-in-the-loop testing framework with automotive diagnostic drivers for UDS, DoIP, and CAN bus protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:07:49Z",
-            "owner": "jumpstarter-dev",
-            "repo": "jumpstarter",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "canTot",
-          "description": "A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-15T14:54:26Z",
-            "owner": "shipcod3",
-            "repo": "canTot",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "c0f",
-          "description": "A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2015-09-29T15:35:34Z",
-            "owner": "zombieCraig",
-            "repo": "c0f",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Caring Caribou Next",
-          "description": "Upgraded and optimized version of the original Caring Caribou project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-13T09:26:04Z",
-            "owner": "Cr0wTom",
-            "repo": "caringcaribounext",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "canarchy",
-          "description": "CANarchy is a stream-first CAN analysis and manipulation runtime designed for automation, security research, and agent-driven workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T20:19:06Z",
-            "owner": "hexsecs",
-            "repo": "canarchy",
-            "stars": 3
-          }
+          "node_type": "group",
+          "title": "Arduino",
+          "description": "Arduino boards have a number of shields you can attach to connect to CAN-enabled devices.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arduino-canbus-monitor",
+              "description": "No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34021257,
+                "language": "C++",
+                "last_commit": "2025-10-22T10:47:42Z",
+                "owner": "latonita",
+                "repo": "arduino-canbus-monitor",
+                "stars": 336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CANdiy-Shield",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8342161,
+                "language": null,
+                "last_commit": "2019-11-21T09:02:21Z",
+                "owner": "watterott",
+                "repo": "CANdiy-Shield",
+                "stars": 28
+              }
+            }
+          ]
         }
       ],
-      "title": "Python"
+      "title": "Hardware"
     },
     {
-      "description": "",
+      "description": "Overview of software, both open source and proprietary, as well as libraries from various programming languages. This article goes through many of the options below.",
       "items": [
         {
-          "node_type": "item",
-          "title": "CANNiBUS",
-          "description": "A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2013-09-30T19:59:49Z",
-            "owner": "Hive13",
-            "repo": "CANiBUS",
-            "stars": 112
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openpilot",
+              "description": "openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74627617,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:34:24Z",
+                "owner": "commaai",
+                "repo": "openpilot",
+                "stars": 63450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openalpr",
+              "description": "An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14259343,
+                "language": "C++",
+                "last_commit": "2024-01-11T02:23:51Z",
+                "owner": "openalpr",
+                "repo": "openalpr",
+                "stars": 11448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tesla Mod",
+              "description": "Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197477912,
+                "language": "C",
+                "last_commit": "2026-08-18T04:06:03Z",
+                "owner": "hypery11",
+                "repo": "flipper-tesla-fsd",
+                "stars": 1008
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CANalyzat0r",
+              "description": "A security analysis toolkit for proprietary car protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123132656,
+                "language": "Python",
+                "last_commit": "2022-02-21T11:06:07Z",
+                "owner": "schutzwerk",
+                "repo": "CANalyzat0r",
+                "stars": 793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UDSim",
+              "description": "GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50701131,
+                "language": "C++",
+                "last_commit": "2022-12-10T07:27:54Z",
+                "owner": "zombieCraig",
+                "repo": "UDSim",
+                "stars": 333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CANToolz",
+              "description": "CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52616269,
+                "language": "Python",
+                "last_commit": "2017-10-31T08:59:11Z",
+                "owner": "eik00d",
+                "repo": "CANToolz",
+                "stars": 317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mazda_getInfo",
+              "description": "A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93446572,
+                "language": "Shell",
+                "last_commit": "2022-05-31T09:07:24Z",
+                "owner": "shipcod3",
+                "repo": "mazda_getInfo",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "talking-with-cars",
+              "description": "CAN related scripts, and scripts to use a car as a gamepad",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97443560,
+                "language": "Python",
+                "last_commit": "2021-10-11T14:38:01Z",
+                "owner": "P1kachu",
+                "repo": "talking-with-cars",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BlackFlag ECU",
+              "description": "Professional ECU diagnostics and tuning suite with OBD-II scanning, DTC reading, live sensor monitoring, and reflash capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125926954,
+                "language": null,
+                "last_commit": "2026-02-27T05:47:27Z",
+                "owner": "bad-antics",
+                "repo": "blackflag-ecu",
+                "stars": 33
+              }
+            }
+          ],
+          "description": "Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.",
+          "node_type": "group",
+          "title": "Applications"
         },
         {
-          "node_type": "item",
-          "title": "CAN Simulator",
-          "description": "A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source CAN Simulator board",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2016-06-02T04:26:37Z",
-            "owner": "carloop",
-            "repo": "simulator-program",
-            "stars": 69
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SocketCAN Utils",
+                  "description": "Userspace utilites for SocketCAN on Linux.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31673071,
+                    "language": "C",
+                    "last_commit": "2026-05-12T13:48:35Z",
+                    "owner": "linux-can",
+                    "repo": "can-utils",
+                    "stars": 2905
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dbcc",
+                  "description": "\"dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages.\" With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69908726,
+                    "language": "C",
+                    "last_commit": "2025-10-07T16:04:54Z",
+                    "owner": "howerj",
+                    "repo": "dbcc",
+                    "stars": 455
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vircar",
+                  "description": "a Virtual car userspace that sends CAN messages based on SocketCAN",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54796462,
+                    "language": "C",
+                    "last_commit": "2020-09-07T07:34:08Z",
+                    "owner": "duraki",
+                    "repo": "virtualcar",
+                    "stars": 158
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CANdevStudio",
+                  "description": "Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92063745,
+                    "language": "C++",
+                    "last_commit": "2025-07-21T11:36:50Z",
+                    "owner": "GENIVI",
+                    "repo": "CANdevStudio",
+                    "stars": 1141
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "UnlockECU",
+                  "description": "Free, open-source ECU seed-key unlocking tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 316484388,
+                    "language": "C#",
+                    "last_commit": "2026-06-04T10:07:06Z",
+                    "owner": "jglim",
+                    "repo": "UnlockECU",
+                    "stars": 441
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CanCat",
+                  "description": "A \"swiss-army knife\" for interacting with live CAN data. Primary API interface in Python, but written in C++.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33624794,
+                    "language": "Python",
+                    "last_commit": "2023-04-07T17:39:32Z",
+                    "owner": "atlas0fd00m",
+                    "repo": "CanCat",
+                    "stars": 217
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Scapy",
+                  "description": "A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the automotive doc",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43509302,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T17:11:17Z",
+                    "owner": "secdev",
+                    "repo": "scapy",
+                    "stars": 12477
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cantools",
+                  "description": "Python module to decode and encode CAN messages using a DBC file",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34604098,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T05:34:14Z",
+                    "owner": "cantools",
+                    "repo": "cantools",
+                    "stars": 2269
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python-CAN",
+                  "description": "Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69090889,
+                    "language": "Python",
+                    "last_commit": "2026-07-01T00:10:31Z",
+                    "owner": "hardbyte",
+                    "repo": "python-can",
+                    "stars": 1584
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python-OBD",
+                  "description": "A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 25230235,
+                    "language": "Python",
+                    "last_commit": "2025-04-07T05:17:34Z",
+                    "owner": "brendan-w",
+                    "repo": "python-OBD",
+                    "stars": 1305
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "canmatrix",
+                  "description": "Python module to work with CAN matrix files",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9304497,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T07:57:35Z",
+                    "owner": "ebroecker",
+                    "repo": "canmatrix",
+                    "stars": 1086
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Caring Caribou",
+                  "description": "Intended to be the nmap of vehicle security.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33181725,
+                    "language": "Python",
+                    "last_commit": "2026-06-12T23:35:05Z",
+                    "owner": "CaringCaribou",
+                    "repo": "caringcaribou",
+                    "stars": 942
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CANard",
+                  "description": "A Python framework for Controller Area Network applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 14094103,
+                    "language": "Python",
+                    "last_commit": "2019-12-03T21:51:27Z",
+                    "owner": "linklayer",
+                    "repo": "pyvit",
+                    "stars": 514
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CanoPy",
+                  "description": "A python gui used to visualize and plot message payloads in real time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 343304050,
+                    "language": "Python",
+                    "last_commit": "2026-04-23T15:14:01Z",
+                    "owner": "Tbruno25",
+                    "repo": "can-explorer",
+                    "stars": 302
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CanCat",
+                  "description": "A \"swiss-army knife\" for interacting with live CAN data. Primary API interface in Python, but written in C++.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33624794,
+                    "language": "Python",
+                    "last_commit": "2023-04-07T17:39:32Z",
+                    "owner": "atlas0fd00m",
+                    "repo": "CanCat",
+                    "stars": 217
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Jumpstarter",
+                  "description": "A hardware-in-the-loop testing framework with automotive diagnostic drivers for UDS, DoIP, and CAN bus protocols.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1138269866,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T07:12:11Z",
+                    "owner": "jumpstarter-dev",
+                    "repo": "jumpstarter",
+                    "stars": 211
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "canTot",
+                  "description": "A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 514150017,
+                    "language": "Python",
+                    "last_commit": "2024-10-15T14:54:26Z",
+                    "owner": "shipcod3",
+                    "repo": "canTot",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "c0f",
+                  "description": "A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29004646,
+                    "language": "Ruby",
+                    "last_commit": "2015-09-29T15:35:34Z",
+                    "owner": "zombieCraig",
+                    "repo": "c0f",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Caring Caribou Next",
+                  "description": "Upgraded and optimized version of the original Caring Caribou project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 421821336,
+                    "language": "Python",
+                    "last_commit": "2024-03-13T09:26:04Z",
+                    "owner": "Cr0wTom",
+                    "repo": "caringcaribounext",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "canarchy",
+                  "description": "CANarchy is a stream-first CAN analysis and manipulation runtime designed for automation, security research, and agent-driven workflows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1213099273,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T20:19:06Z",
+                    "owner": "hexsecs",
+                    "repo": "canarchy",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CANNiBUS",
+                  "description": "A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 5719059,
+                    "language": "JavaScript",
+                    "last_commit": "2013-09-30T19:59:49Z",
+                    "owner": "Hive13",
+                    "repo": "CANiBUS",
+                    "stars": 112
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CAN Simulator",
+                  "description": "A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source CAN Simulator board",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53444603,
+                    "language": "Go",
+                    "last_commit": "2016-06-02T04:26:37Z",
+                    "owner": "carloop",
+                    "repo": "simulator-program",
+                    "stars": 69
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Go"
+            }
+          ],
+          "description": "Libraries and tools that don't fall under the larger class of applications above.\nCustom Applications SDK for Mazda Connect Infotainment System - A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.",
+          "node_type": "group",
+          "title": "Libraries and Tools"
         }
       ],
-      "title": "Go"
+      "title": "Software"
+    },
+    {
+      "description": "List of lists.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Security",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hacking",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28084589,
+                "language": null,
+                "last_commit": "2024-06-02T22:40:13Z",
+                "owner": "carpedm20",
+                "repo": "awesome-hacking",
+                "stars": 16899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23208012,
+                "language": null,
+                "last_commit": "2026-01-11T02:00:26Z",
+                "owner": "sbilly",
+                "repo": "awesome-security",
+                "stars": 14766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Malware Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35313712,
+                "language": null,
+                "last_commit": "2024-06-07T05:09:47Z",
+                "owner": "rshipp",
+                "repo": "awesome-malware-analysis",
+                "stars": 14133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capture the Flag",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31452467,
+                "language": "JavaScript",
+                "last_commit": "2024-07-22T19:59:35Z",
+                "owner": "apsdehal",
+                "repo": "awesome-ctf",
+                "stars": 11765
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Honeypots",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37659549,
+                "language": "Python",
+                "last_commit": "2026-06-01T14:15:45Z",
+                "owner": "paralax",
+                "repo": "awesome-honeypots",
+                "stars": 10522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22117770,
+                "language": "Makefile",
+                "last_commit": "2026-08-17T06:04:10Z",
+                "owner": "ashishb",
+                "repo": "android-security-awesome",
+                "stars": 9618
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Incident Response",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45943554,
+                "language": null,
+                "last_commit": "2026-07-15T10:58:26Z",
+                "owner": "meirwah",
+                "repo": "awesome-incident-response",
+                "stars": 9338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Application Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34877308,
+                "language": "PHP",
+                "last_commit": "2025-02-22T16:39:11Z",
+                "owner": "paragonie",
+                "repo": "awesome-appsec",
+                "stars": 7035
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Meta",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-18T13:28:50Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 497671
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lists",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14408715,
+                "language": null,
+                "last_commit": "2026-03-23T20:19:22Z",
+                "owner": "jnv",
+                "repo": "lists",
+                "stars": 11422
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:13:52.340Z",
+    "last_updated": "2026-08-19T12:59:35.840Z",
     "original_repository": "jaredthecoder/awesome-vehicle-security",
+    "original_repository_id": 64367335,
     "original_repository_sha": "2228c9f842d0dcf2e5dd24c987e9f5602001f8a0",
     "enhanced_repository": "enhansome/enhansome-vehicle-security",
     "enhanced_repository_description": null,
