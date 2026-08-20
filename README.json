@@ -15,7 +15,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3424
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-01-26T00:26:12Z",
             "owner": "Alia5",
             "repo": "PiCCANTE",
-            "stars": 92
+            "stars": 91
           }
         },
         {
@@ -159,10 +159,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-19T05:34:24Z",
+                "last_commit": "2026-08-20T09:14:48Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63452
+                "stars": 63458
               }
             },
             {
@@ -192,7 +192,7 @@
                 "last_commit": "2026-08-18T04:06:03Z",
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
-                "stars": 1009
+                "stars": 1013
               }
             },
             {
@@ -252,7 +252,7 @@
                 "last_commit": "2022-05-31T09:07:24Z",
                 "owner": "shipcod3",
                 "repo": "mazda_getInfo",
-                "stars": 166
+                "stars": 165
               }
             },
             {
@@ -306,7 +306,7 @@
                     "last_commit": "2026-05-12T13:48:35Z",
                     "owner": "linux-can",
                     "repo": "can-utils",
-                    "stars": 2905
+                    "stars": 2906
                   }
                 },
                 {
@@ -358,7 +358,7 @@
                     "last_commit": "2025-07-21T11:36:50Z",
                     "owner": "GENIVI",
                     "repo": "CANdevStudio",
-                    "stars": 1141
+                    "stars": 1139
                   }
                 },
                 {
@@ -410,7 +410,7 @@
                     "last_commit": "2026-08-18T17:11:17Z",
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12478
+                    "stars": 12481
                   }
                 },
                 {
@@ -425,7 +425,7 @@
                     "last_commit": "2026-08-17T05:34:14Z",
                     "owner": "cantools",
                     "repo": "cantools",
-                    "stars": 2269
+                    "stars": 2270
                   }
                 },
                 {
@@ -440,7 +440,7 @@
                     "last_commit": "2026-07-01T00:10:31Z",
                     "owner": "hardbyte",
                     "repo": "python-can",
-                    "stars": 1584
+                    "stars": 1586
                   }
                 },
                 {
@@ -542,7 +542,7 @@
                     "archived": false,
                     "id": 1138269866,
                     "language": "Python",
-                    "last_commit": "2026-08-19T15:11:15Z",
+                    "last_commit": "2026-08-20T14:17:49Z",
                     "owner": "jumpstarter-dev",
                     "repo": "jumpstarter",
                     "stars": 211
@@ -678,7 +678,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16899
+                "stars": 16908
               }
             },
             {
@@ -693,7 +693,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14767
+                "stars": 14771
               }
             },
             {
@@ -708,7 +708,7 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14133
+                "stars": 14138
               }
             },
             {
@@ -723,7 +723,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11765
+                "stars": 11773
               }
             },
             {
@@ -738,7 +738,7 @@
                 "last_commit": "2026-06-01T14:15:45Z",
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10522
+                "stars": 10525
               }
             },
             {
@@ -750,10 +750,10 @@
                 "archived": false,
                 "id": 22117770,
                 "language": "Makefile",
-                "last_commit": "2026-08-17T06:04:10Z",
+                "last_commit": "2026-08-19T15:34:21Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9618
+                "stars": 9624
               }
             },
             {
@@ -768,7 +768,7 @@
                 "last_commit": "2026-07-15T10:58:26Z",
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9338
+                "stars": 9342
               }
             },
             {
@@ -783,7 +783,7 @@
                 "last_commit": "2025-02-22T16:39:11Z",
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7035
+                "stars": 7036
               }
             }
           ]
@@ -805,7 +805,7 @@
                 "last_commit": "2026-08-18T13:28:50Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 497712
+                "stars": 498104
               }
             },
             {
@@ -820,7 +820,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11421
+                "stars": 11425
               }
             }
           ]
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:13:44.846Z",
+    "last_updated": "2026-08-20T15:17:26.383Z",
     "original_repository": "jaredthecoder/awesome-vehicle-security",
     "original_repository_id": 64367335,
     "original_repository_sha": "2228c9f842d0dcf2e5dd24c987e9f5602001f8a0",
