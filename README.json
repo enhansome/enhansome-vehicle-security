@@ -40,6 +40,78 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Udacity's Self Driving Car Engineer Course",
+              "description": "The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is here.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 69775530,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-11-25T10:41:52Z",
+                "owner": "udacity",
+                "repo": "self-driving-car",
+                "stars": 6315
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Welcoming contributions",
+              "description": "!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64367335,
+                "language": null,
+                "last_commit": "2026-05-30T00:29:18Z",
+                "owner": "jaredthecoder",
+                "repo": "awesome-vehicle-security",
+                "stars": 4511
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Newsletters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reverse Engineering Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133616330,
+                "language": "Python",
+                "last_commit": "2019-05-26T17:32:42Z",
+                "owner": "ps1337",
+                "repo": "automotive-security-research",
+                "stars": 102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
+      "title": "Learn"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Open Source Car Control Project",
           "description": "The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.",
@@ -159,10 +231,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:10:33Z",
+                "last_commit": "2026-08-24T09:18:41Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63475
+                "stars": 63481
               }
             },
             {
@@ -177,7 +249,7 @@
                 "last_commit": "2024-01-11T02:23:51Z",
                 "owner": "openalpr",
                 "repo": "openalpr",
-                "stars": 11449
+                "stars": 11448
               }
             },
             {
@@ -189,7 +261,7 @@
                 "archived": false,
                 "id": 1197477912,
                 "language": "C",
-                "last_commit": "2026-08-18T04:06:03Z",
+                "last_commit": "2026-08-23T17:01:30Z",
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
                 "stars": 1016
@@ -293,6 +365,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Custom Applications SDK for Mazda Connect Infotainment System",
+              "description": "A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50984705,
+                "language": "JavaScript",
+                "last_commit": "2016-09-22T17:07:54Z",
+                "owner": "flyandi",
+                "repo": "mazda-custom-application-sdk",
+                "stars": 210
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -373,7 +460,7 @@
                     "last_commit": "2026-06-04T10:07:06Z",
                     "owner": "jglim",
                     "repo": "UnlockECU",
-                    "stars": 441
+                    "stars": 442
                   }
                 },
                 {
@@ -400,6 +487,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "ITS Geonetworking",
+                  "description": "ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29473994,
+                    "language": "Java",
+                    "last_commit": "2023-11-29T22:18:31Z",
+                    "owner": "alexvoronov",
+                    "repo": "geonetworking",
+                    "stars": 109
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Scapy",
                   "description": "A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the automotive doc",
                   "children": [],
@@ -410,7 +519,7 @@
                     "last_commit": "2026-08-18T17:11:17Z",
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12492
+                    "stars": 12494
                   }
                 },
                 {
@@ -455,7 +564,7 @@
                     "last_commit": "2025-04-07T05:17:34Z",
                     "owner": "brendan-w",
                     "repo": "python-OBD",
-                    "stars": 1307
+                    "stars": 1306
                   }
                 },
                 {
@@ -485,7 +594,7 @@
                     "last_commit": "2026-06-12T23:35:05Z",
                     "owner": "CaringCaribou",
                     "repo": "caringcaribou",
-                    "stars": 943
+                    "stars": 944
                   }
                 },
                 {
@@ -542,7 +651,7 @@
                     "archived": false,
                     "id": 1138269866,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:00:34Z",
+                    "last_commit": "2026-08-24T13:54:50Z",
                     "owner": "jumpstarter-dev",
                     "repo": "jumpstarter",
                     "stars": 211
@@ -590,7 +699,7 @@
                     "last_commit": "2024-03-13T09:26:04Z",
                     "owner": "Cr0wTom",
                     "repo": "caringcaribounext",
-                    "stars": 10
+                    "stars": 11
                   }
                 },
                 {
@@ -649,9 +758,31 @@
               "description": null,
               "node_type": "group",
               "title": "Go"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NodeJS extension to SocketCAN",
+                  "description": "Allows you to communicate over CAN networks with simple JavaScript functions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7387779,
+                    "language": "C++",
+                    "last_commit": "2026-08-15T10:28:32Z",
+                    "owner": "sebi2k1",
+                    "repo": "node-can",
+                    "stars": 246
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JavaScript"
             }
           ],
-          "description": "Libraries and tools that don't fall under the larger class of applications above.\nCustom Applications SDK for Mazda Connect Infotainment System - A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.",
+          "description": "Libraries and tools that don't fall under the larger class of applications above.",
           "node_type": "group",
           "title": "Libraries and Tools"
         }
@@ -678,7 +809,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16926
+                "stars": 16929
               }
             },
             {
@@ -693,7 +824,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14789
+                "stars": 14791
               }
             },
             {
@@ -708,7 +839,7 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14151
+                "stars": 14149
               }
             },
             {
@@ -723,7 +854,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11788
+                "stars": 11791
               }
             },
             {
@@ -738,7 +869,7 @@
                 "last_commit": "2026-06-01T14:15:45Z",
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10530
+                "stars": 10532
               }
             },
             {
@@ -753,7 +884,7 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9631
+                "stars": 9638
               }
             },
             {
@@ -768,7 +899,7 @@
                 "last_commit": "2026-07-15T10:58:26Z",
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9348
+                "stars": 9349
               }
             },
             {
@@ -805,7 +936,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499174
+                "stars": 499508
               }
             },
             {
@@ -820,7 +951,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11434
+                "stars": 11436
               }
             }
           ]
@@ -830,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:01:15.192Z",
+    "last_updated": "2026-08-24T13:55:42.463Z",
     "original_repository": "jaredthecoder/awesome-vehicle-security",
     "original_repository_id": 64367335,
     "original_repository_sha": "2228c9f842d0dcf2e5dd24c987e9f5602001f8a0",
