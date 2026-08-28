@@ -15,8 +15,9 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3433
-          }
+            "stars": 3434
+          },
+          "first_seen": "2026-08-28T23:42:30.094Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "iDoka",
             "repo": "awesome-linbus",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T23:42:30.094Z"
         }
       ],
       "title": "Related Lists"
@@ -54,7 +56,8 @@
                 "owner": "udacity",
                 "repo": "self-driving-car",
                 "stars": 6315
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ],
           "description": null,
@@ -75,8 +78,9 @@
                 "last_commit": "2026-05-30T00:29:18Z",
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4531
-              }
+                "stars": 4533
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ],
           "description": null,
@@ -98,7 +102,8 @@
                 "owner": "ps1337",
                 "repo": "automotive-security-research",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ],
           "description": null,
@@ -124,7 +129,8 @@
             "owner": "PolySync",
             "repo": "oscc",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T23:42:30.094Z"
         },
         {
           "node_type": "item",
@@ -139,7 +145,8 @@
             "owner": "openvehicles",
             "repo": "Open-Vehicle-Monitoring-System",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T23:42:30.094Z"
         }
       ],
       "title": "Projects"
@@ -160,7 +167,8 @@
             "owner": "autopi-io",
             "repo": "autopi-core",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T23:42:30.094Z"
         },
         {
           "node_type": "item",
@@ -175,7 +183,8 @@
             "owner": "Alia5",
             "repo": "PiCCANTE",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T23:42:30.094Z"
         },
         {
           "node_type": "group",
@@ -195,7 +204,8 @@
                 "owner": "latonita",
                 "repo": "arduino-canbus-monitor",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -210,7 +220,8 @@
                 "owner": "watterott",
                 "repo": "CANdiy-Shield",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ]
         }
@@ -231,11 +242,12 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:08:21Z",
+                "last_commit": "2026-08-28T22:46:58Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63525
-              }
+                "stars": 63528
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -249,8 +261,9 @@
                 "last_commit": "2024-01-11T02:23:51Z",
                 "owner": "openalpr",
                 "repo": "openalpr",
-                "stars": 11452
-              }
+                "stars": 11453
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -264,8 +277,9 @@
                 "last_commit": "2026-08-27T06:34:49Z",
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
-                "stars": 1027
-              }
+                "stars": 1029
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -280,7 +294,8 @@
                 "owner": "schutzwerk",
                 "repo": "CANalyzat0r",
                 "stars": 794
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -295,7 +310,8 @@
                 "owner": "zombieCraig",
                 "repo": "UDSim",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -310,7 +326,8 @@
                 "owner": "eik00d",
                 "repo": "CANToolz",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -325,7 +342,8 @@
                 "owner": "shipcod3",
                 "repo": "mazda_getInfo",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -340,7 +358,8 @@
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -355,7 +374,8 @@
                 "owner": "bad-antics",
                 "repo": "blackflag-ecu",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ],
           "description": "Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.",
@@ -377,7 +397,8 @@
                 "owner": "flyandi",
                 "repo": "mazda-custom-application-sdk",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "children": [
@@ -393,8 +414,9 @@
                     "last_commit": "2026-05-12T13:48:35Z",
                     "owner": "linux-can",
                     "repo": "can-utils",
-                    "stars": 2908
-                  }
+                    "stars": 2909
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -409,7 +431,8 @@
                     "owner": "howerj",
                     "repo": "dbcc",
                     "stars": 455
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -424,7 +447,8 @@
                     "owner": "duraki",
                     "repo": "virtualcar",
                     "stars": 158
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 }
               ],
               "description": null,
@@ -446,7 +470,8 @@
                     "owner": "GENIVI",
                     "repo": "CANdevStudio",
                     "stars": 1140
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -461,7 +486,8 @@
                     "owner": "jglim",
                     "repo": "UnlockECU",
                     "stars": 443
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -476,7 +502,8 @@
                     "owner": "atlas0fd00m",
                     "repo": "CanCat",
                     "stars": 217
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 }
               ],
               "description": null,
@@ -498,7 +525,8 @@
                     "owner": "alexvoronov",
                     "repo": "geonetworking",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 }
               ],
               "description": null,
@@ -516,11 +544,12 @@
                     "archived": false,
                     "id": 43509302,
                     "language": "Python",
-                    "last_commit": "2026-08-27T20:34:24Z",
+                    "last_commit": "2026-08-28T15:14:55Z",
                     "owner": "secdev",
                     "repo": "scapy",
                     "stars": 12501
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -531,11 +560,12 @@
                     "archived": false,
                     "id": 34604098,
                     "language": "Python",
-                    "last_commit": "2026-08-27T06:43:21Z",
+                    "last_commit": "2026-08-28T07:11:11Z",
                     "owner": "cantools",
                     "repo": "cantools",
-                    "stars": 2276
-                  }
+                    "stars": 2277
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -550,7 +580,8 @@
                     "owner": "hardbyte",
                     "repo": "python-can",
                     "stars": 1586
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -565,7 +596,8 @@
                     "owner": "brendan-w",
                     "repo": "python-OBD",
                     "stars": 1306
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -580,7 +612,8 @@
                     "owner": "ebroecker",
                     "repo": "canmatrix",
                     "stars": 1087
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -595,7 +628,8 @@
                     "owner": "CaringCaribou",
                     "repo": "caringcaribou",
                     "stars": 945
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -610,7 +644,8 @@
                     "owner": "linklayer",
                     "repo": "pyvit",
                     "stars": 514
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -625,7 +660,8 @@
                     "owner": "Tbruno25",
                     "repo": "can-explorer",
                     "stars": 302
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -640,7 +676,8 @@
                     "owner": "atlas0fd00m",
                     "repo": "CanCat",
                     "stars": 217
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -651,11 +688,12 @@
                     "archived": false,
                     "id": 1138269866,
                     "language": "Python",
-                    "last_commit": "2026-08-27T23:37:10Z",
+                    "last_commit": "2026-08-28T22:56:37Z",
                     "owner": "jumpstarter-dev",
                     "repo": "jumpstarter",
                     "stars": 213
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -670,7 +708,8 @@
                     "owner": "shipcod3",
                     "repo": "canTot",
                     "stars": 150
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -685,7 +724,8 @@
                     "owner": "zombieCraig",
                     "repo": "c0f",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -700,7 +740,8 @@
                     "owner": "Cr0wTom",
                     "repo": "caringcaribounext",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -715,7 +756,8 @@
                     "owner": "hexsecs",
                     "repo": "canarchy",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 }
               ],
               "description": null,
@@ -737,7 +779,8 @@
                     "owner": "Hive13",
                     "repo": "CANiBUS",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 },
                 {
                   "node_type": "item",
@@ -752,7 +795,8 @@
                     "owner": "carloop",
                     "repo": "simulator-program",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 }
               ],
               "description": null,
@@ -774,7 +818,8 @@
                     "owner": "sebi2k1",
                     "repo": "node-can",
                     "stars": 246
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:30.094Z"
                 }
               ],
               "description": null,
@@ -809,8 +854,9 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16955
-              }
+                "stars": 16962
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -824,8 +870,9 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14802
-              }
+                "stars": 14805
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -839,8 +886,9 @@
                 "last_commit": "2024-06-07T05:09:47Z",
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14160
-              }
+                "stars": 14162
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -854,8 +902,9 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11802
-              }
+                "stars": 11803
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -869,8 +918,9 @@
                 "last_commit": "2026-06-01T14:15:45Z",
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10534
-              }
+                "stars": 10536
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -884,8 +934,9 @@
                 "last_commit": "2026-08-21T18:33:19Z",
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9647
-              }
+                "stars": 9648
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -899,8 +950,9 @@
                 "last_commit": "2026-07-15T10:58:26Z",
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9354
-              }
+                "stars": 9357
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -914,8 +966,9 @@
                 "last_commit": "2025-02-22T16:39:11Z",
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7045
-              }
+                "stars": 7046
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ]
         },
@@ -936,8 +989,9 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500537
-              }
+                "stars": 500851
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             },
             {
               "node_type": "item",
@@ -951,8 +1005,9 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11442
-              }
+                "stars": 11441
+              },
+              "first_seen": "2026-08-28T23:42:30.094Z"
             }
           ]
         }
@@ -961,7 +1016,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:01:14.073Z",
+    "last_updated": "2026-08-28T23:42:30.094Z",
     "original_repository_info": {
       "archived": false,
       "id": 64367335,
@@ -969,7 +1024,7 @@
       "last_commit": "2026-05-30T00:29:18Z",
       "owner": "jaredthecoder",
       "repo": "awesome-vehicle-security",
-      "stars": 4531
+      "stars": 4533
     },
     "original_repository_sha": "2228c9f842d0dcf2e5dd24c987e9f5602001f8a0",
     "enhanced_repository": "enhansome/enhansome-vehicle-security",
