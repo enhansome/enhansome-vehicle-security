@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+            "homepage": null,
             "id": 313261022,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
+            "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3434
+            "stars": 3434,
+            "topics": [
+              "automotive",
+              "automotive-security",
+              "awesome",
+              "awesome-list",
+              "bus-monitoring",
+              "can",
+              "can-bus",
+              "can-fd",
+              "canbus",
+              "canutils",
+              "car-hacking",
+              "elm327",
+              "embedded",
+              "j2534",
+              "lawicel",
+              "logger",
+              "obd2",
+              "slcan",
+              "sniffer",
+              "socketcan"
+            ]
           },
           "first_seen": "2026-08-28T23:42:30.094Z"
         },
@@ -26,12 +52,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
+            "homepage": null,
             "id": 344925173,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-09-06T06:49:15Z",
+            "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-linbus",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "arduino",
+              "automotive",
+              "awesome",
+              "awesome-list",
+              "car-hacking",
+              "embedded",
+              "iso17987",
+              "iso9141",
+              "lawicel",
+              "ldf",
+              "lin",
+              "lin-bus",
+              "lin-utils",
+              "local-interconnect-network",
+              "logger",
+              "raspberry-pi",
+              "slcan",
+              "socketlin",
+              "stm32"
+            ]
           },
           "first_seen": "2026-08-28T23:42:30.094Z"
         }
@@ -50,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Udacity open source self-driving car project",
+                "homepage": "https://udacity.com/self-driving-car",
                 "id": 69775530,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-25T10:41:52Z",
+                "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6315
+                "stars": 6315,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -73,12 +129,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
+                "homepage": null,
                 "id": 64367335,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-30T00:29:18Z",
+                "open_issues": 3,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4533
+                "stars": 4533,
+                "topics": [
+                  "automotive",
+                  "awesome",
+                  "awesome-list",
+                  "car-hacking",
+                  "cars",
+                  "cybersecurity",
+                  "hacking",
+                  "hacking-vehicles",
+                  "hardware",
+                  "learning",
+                  "security",
+                  "vehicle-security"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -96,12 +170,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains reverse engineering results and resources for a few specific car models of a very specific car manufacturer. Please don't sue.",
+                "homepage": null,
                 "id": 133616330,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-26T17:32:42Z",
+                "open_issues": 0,
                 "owner": "ps1337",
                 "repo": "automotive-security-research",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "automotive-security",
+                  "car-hacking"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -123,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Car Control 💻🚗🙌",
+            "homepage": null,
             "id": 73134301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-10T18:04:57Z",
+            "open_issues": 15,
             "owner": "PolySync",
             "repo": "oscc",
-            "stars": 1037
+            "stars": 1037,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:30.094Z"
         },
@@ -139,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We are a group of enthusiasts who want an interface to be able to talk to our cars remotely, perhaps add on-car displays (such as heads-up speed), and we want to have fun doing it.",
+            "homepage": "http://www.openvehicles.com/",
             "id": 2685002,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-07T08:19:55Z",
+            "open_issues": 9,
             "owner": "openvehicles",
             "repo": "Open-Vehicle-Monitoring-System",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:30.094Z"
         }
@@ -161,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The software that runs on the AutoPi Dongle.",
+            "homepage": "https://autopi.io",
             "id": 136908152,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T12:24:52Z",
+            "open_issues": 1,
             "owner": "autopi-io",
             "repo": "autopi-core",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:30.094Z"
         },
@@ -177,12 +274,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PiCCANTE is a powerful tool for exploring and reversing CAN busses of vehicles, based on Raspberry Pi Pico (any model)",
+            "homepage": null,
             "id": 957214701,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-26T00:26:12Z",
+            "open_issues": 12,
             "owner": "Alia5",
             "repo": "PiCCANTE",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "2040",
+              "2350",
+              "can",
+              "canbus",
+              "car",
+              "car-hacking",
+              "reverse-engineering",
+              "vehicle"
+            ]
           },
           "first_seen": "2026-08-28T23:42:30.094Z"
         },
@@ -198,12 +309,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Can bus monitoring tool based on arduino and can bus shield. Implements CAN ASCII/SLCAN protocol compatible with Lawicel CAN232/CANUSB. Can be used for monitoring low speed CAN (interior can bus of most cars, less than 500kbps). For higher speeds serial port can become a bottleneck in case data density is high.",
+                "homepage": null,
                 "id": 34021257,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-10-22T10:47:42Z",
+                "open_issues": 4,
                 "owner": "latonita",
                 "repo": "arduino-canbus-monitor",
-                "stars": 336
+                "stars": 336,
+                "topics": [
+                  "arduino",
+                  "ascii",
+                  "bus-monitoring",
+                  "can",
+                  "can-bus",
+                  "protocol",
+                  "slcan",
+                  "slcan-protocol"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -214,12 +339,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAN-Bus Shield for Arduino based on Microchip MCP2515 or MCP2517FD CAN Controller",
+                "homepage": "https://learn.watterott.com",
                 "id": 8342161,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-11-21T09:02:21Z",
+                "open_issues": 0,
                 "owner": "watterott",
                 "repo": "CANdiy-Shield",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "arduino",
+                  "shield"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -240,12 +373,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+                "homepage": "https://comma.ai/openpilot",
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-28T22:46:58Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:09:03Z",
+                "open_issues": 130,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63528
+                "stars": 63527,
+                "topics": [
+                  "advanced-driver-assistance-systems",
+                  "driver-assistance-systems",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -256,12 +398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic License Plate Recognition library",
+                "homepage": "http://www.openalpr.com",
                 "id": 14259343,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-11T02:23:51Z",
+                "open_issues": 521,
                 "owner": "openalpr",
                 "repo": "openalpr",
-                "stars": 11453
+                "stars": 11453,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -272,12 +419,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, speed display, steering mode + more. Works via OBD-II or X179 connector.",
+                "homepage": "https://github.com/hypery11/flipper-tesla-fsd",
                 "id": 1197477912,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T06:34:49Z",
+                "open_issues": 64,
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
-                "stars": 1029
+                "stars": 1030,
+                "topics": [
+                  "automotive",
+                  "autopilot",
+                  "can-bus",
+                  "canbus-research",
+                  "cybertruck",
+                  "electric-vehicle",
+                  "flipper-zero",
+                  "flipper-zero-app",
+                  "fsd",
+                  "fsdv14",
+                  "hardware-hacking",
+                  "hw3",
+                  "hw4",
+                  "mcp2515",
+                  "model-3",
+                  "model-y",
+                  "obd2",
+                  "tesla",
+                  "tesla-fsd",
+                  "tesla-mod"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -288,12 +461,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security analysis toolkit for proprietary car protocols",
+                "homepage": "https://www.schutzwerk.com/en/43/posts/canalyzat0r/",
                 "id": 123132656,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-02-21T11:06:07Z",
+                "open_issues": 3,
                 "owner": "schutzwerk",
                 "repo": "CANalyzat0r",
-                "stars": 794
+                "stars": 794,
+                "topics": [
+                  "automotive-security",
+                  "carhacking",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -304,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 50701131,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-10T07:27:54Z",
+                "open_issues": 4,
                 "owner": "zombieCraig",
                 "repo": "UDSim",
-                "stars": 334
+                "stars": 334,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -320,12 +507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CANToolz - framework for black-box CAN network analysis",
+                "homepage": "https://asintsov.blogspot.de/",
                 "id": 52616269,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-31T08:59:11Z",
+                "open_issues": 2,
                 "owner": "eik00d",
                 "repo": "CANToolz",
-                "stars": 317
+                "stars": 317,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -336,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made",
+                "homepage": null,
                 "id": 93446572,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-31T09:07:24Z",
+                "open_issues": 0,
                 "owner": "shipcod3",
                 "repo": "mazda_getInfo",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -352,12 +549,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAN analysis - Use your car as a gamepad!",
+                "homepage": null,
                 "id": 97443560,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-11T14:38:01Z",
+                "open_issues": 0,
                 "owner": "P1kachu",
                 "repo": "talking-with-cars",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "automotive",
+                  "can",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -368,12 +574,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Professional ECU Diagnostics & Tuning Suite",
+                "homepage": null,
                 "id": 1125926954,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-27T05:47:27Z",
+                "open_issues": 3,
                 "owner": "bad-antics",
                 "repo": "blackflag-ecu",
-                "stars": 33
+                "stars": 34,
+                "topics": [
+                  "automotive",
+                  "csharp",
+                  "cybersecurity",
+                  "diagnostics",
+                  "dotnet",
+                  "ecu",
+                  "ecuflash",
+                  "hacking",
+                  "infosec",
+                  "j2534",
+                  "obd2",
+                  "pentesting",
+                  "performance",
+                  "security",
+                  "tuning",
+                  "windows",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -391,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A micro framework that allows you to write and deploy custom applications to the Mazda Infotainment System",
+                "homepage": "http://flyandi.github.io/mazda-custom-application-sdk/",
                 "id": 50984705,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-09-22T17:07:54Z",
+                "open_issues": 0,
                 "owner": "flyandi",
                 "repo": "mazda-custom-application-sdk",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -409,12 +643,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux-CAN / SocketCAN user space applications",
+                    "homepage": null,
                     "id": 31673071,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-05-12T13:48:35Z",
+                    "open_issues": 63,
                     "owner": "linux-can",
                     "repo": "can-utils",
-                    "stars": 2909
+                    "stars": 2909,
+                    "topics": [
+                      "automotive",
+                      "can-bus",
+                      "industrial-automation",
+                      "linux"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -425,12 +669,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAN DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library",
+                    "homepage": null,
                     "id": 69908726,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-10-07T16:04:54Z",
+                    "open_issues": 1,
                     "owner": "howerj",
                     "repo": "dbcc",
-                    "stars": 455
+                    "stars": 455,
+                    "topics": [
+                      "automotive",
+                      "c",
+                      "code-generation",
+                      "code-generator",
+                      "dbc",
+                      "misra",
+                      "xml"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -441,12 +698,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A virtual car. Because you wouldn't download a car, would you?",
+                    "homepage": null,
                     "id": 54796462,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2020-09-07T07:34:08Z",
+                    "open_issues": 2,
                     "owner": "duraki",
                     "repo": "virtualcar",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": [
+                      "automobiles",
+                      "canbus",
+                      "car",
+                      "ecu",
+                      "linux-kernel"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 }
@@ -464,12 +732,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Development tool for CAN bus simulation",
+                    "homepage": null,
                     "id": 92063745,
                     "language": "C++",
+                    "license": "MPL-2.0",
                     "last_commit": "2025-07-21T11:36:50Z",
+                    "open_issues": 37,
                     "owner": "GENIVI",
                     "repo": "CANdevStudio",
-                    "stars": 1140
+                    "stars": 1140,
+                    "topics": [
+                      "automotive",
+                      "can",
+                      "can-bus",
+                      "genivi"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -480,12 +758,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free, open-source ECU seed-key unlocking tool.",
+                    "homepage": null,
                     "id": 316484388,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-04T10:07:06Z",
+                    "open_issues": 20,
                     "owner": "jglim",
                     "repo": "UnlockECU",
-                    "stars": 443
+                    "stars": 443,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -496,12 +779,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "swiss army knife of Controller Area Networks (CAN) often used in cars and building automation, etc...",
+                    "homepage": null,
                     "id": 33624794,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-04-07T17:39:32Z",
+                    "open_issues": 7,
                     "owner": "atlas0fd00m",
                     "repo": "CanCat",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 }
@@ -519,12 +807,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking",
+                    "homepage": null,
                     "id": 29473994,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-29T22:18:31Z",
+                    "open_issues": 3,
                     "owner": "alexvoronov",
                     "repo": "geonetworking",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": [
+                      "asn1",
+                      "btp",
+                      "car2x",
+                      "etsi",
+                      "etsi-plugtest",
+                      "geonet",
+                      "geonetwork",
+                      "geonetworking",
+                      "v2x",
+                      "vanet"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 }
@@ -542,12 +846,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scapy: the Python-based interactive packet manipulation program & library.",
+                    "homepage": "https://scapy.net",
                     "id": 43509302,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-28T15:14:55Z",
+                    "open_issues": 131,
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12501
+                    "stars": 12501,
+                    "topics": [
+                      "hacktoberfest",
+                      "network",
+                      "network-analysis",
+                      "network-discovery",
+                      "network-security",
+                      "network-visualization",
+                      "packet-analyser",
+                      "packet-capture",
+                      "packet-crafting",
+                      "packet-sniffer",
+                      "pcap",
+                      "python",
+                      "scapy",
+                      "security",
+                      "security-tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -558,12 +883,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAN bus tools.",
+                    "homepage": null,
                     "id": 34604098,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T07:11:11Z",
+                    "open_issues": 129,
                     "owner": "cantools",
                     "repo": "cantools",
-                    "stars": 2277
+                    "stars": 2277,
+                    "topics": [
+                      "arxml",
+                      "can-bus",
+                      "cdd",
+                      "dbc",
+                      "kcd",
+                      "python",
+                      "sym"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -574,12 +912,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The can package provides controller area network support for Python developers",
+                    "homepage": "https://python-can.readthedocs.io",
                     "id": 69090889,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-07-01T00:10:31Z",
+                    "open_issues": 274,
                     "owner": "hardbyte",
                     "repo": "python-can",
-                    "stars": 1586
+                    "stars": 1586,
+                    "topics": [
+                      "can-bus",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -590,12 +936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OBD-II serial module for reading engine data",
+                    "homepage": null,
                     "id": 25230235,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-04-07T05:17:34Z",
+                    "open_issues": 95,
                     "owner": "brendan-w",
                     "repo": "python-OBD",
-                    "stars": 1306
+                    "stars": 1306,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -606,12 +957,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Converting Can (Controller Area Network) Database Formats .arxml .dbc .dbf .kcd ...",
+                    "homepage": null,
                     "id": 9304497,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-17T07:57:35Z",
+                    "open_issues": 20,
                     "owner": "ebroecker",
                     "repo": "canmatrix",
-                    "stars": 1087
+                    "stars": 1087,
+                    "topics": [
+                      "arxml",
+                      "can",
+                      "canbus",
+                      "compare",
+                      "convert",
+                      "dbc",
+                      "dbf",
+                      "dissector",
+                      "fibex",
+                      "json",
+                      "kcd",
+                      "modify",
+                      "python",
+                      "sym",
+                      "xlsx"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -622,12 +994,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A friendly car security exploration tool for the CAN bus",
+                    "homepage": null,
                     "id": 33181725,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-12T23:35:05Z",
+                    "open_issues": 14,
                     "owner": "CaringCaribou",
                     "repo": "caringcaribou",
-                    "stars": 945
+                    "stars": 945,
+                    "topics": [
+                      "can-bus",
+                      "ecu",
+                      "fuzzing",
+                      "python",
+                      "security-scanner",
+                      "security-testing",
+                      "xcp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -638,12 +1023,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "pyvit: Python Vehicle Interface Toolkit",
+                    "homepage": null,
                     "id": 14094103,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-12-03T21:51:27Z",
+                    "open_issues": 10,
                     "owner": "linklayer",
                     "repo": "pyvit",
-                    "stars": 514
+                    "stars": 514,
+                    "topics": [
+                      "automotive",
+                      "automotive-security",
+                      "can-bus",
+                      "python",
+                      "vehicular-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -654,12 +1050,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualize CAN Bus messages in real time",
+                    "homepage": null,
                     "id": 343304050,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-23T15:14:01Z",
+                    "open_issues": 1,
                     "owner": "Tbruno25",
                     "repo": "can-explorer",
-                    "stars": 302
+                    "stars": 302,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -670,12 +1071,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "swiss army knife of Controller Area Networks (CAN) often used in cars and building automation, etc...",
+                    "homepage": null,
                     "id": 33624794,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-04-07T17:39:32Z",
+                    "open_issues": 7,
                     "owner": "atlas0fd00m",
                     "repo": "CanCat",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -686,12 +1092,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+                    "homepage": "https://jumpstarter.dev/",
                     "id": 1138269866,
                     "language": "Python",
-                    "last_commit": "2026-08-28T22:56:37Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T01:48:00Z",
+                    "open_issues": 163,
                     "owner": "jumpstarter-dev",
                     "repo": "jumpstarter",
-                    "stars": 213
+                    "stars": 214,
+                    "topics": [
+                      "agentic",
+                      "automation",
+                      "board-farm",
+                      "ci-cd",
+                      "cloud-native",
+                      "embedded-systems",
+                      "embedded-testing",
+                      "grpc",
+                      "hardware",
+                      "hardware-in-the-loop",
+                      "hardware-testing",
+                      "hil",
+                      "kubernetes",
+                      "lab",
+                      "mcp",
+                      "pytest",
+                      "python",
+                      "test-automation",
+                      "testing-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -702,12 +1133,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "quick and dirty canbus h4xing framework",
+                    "homepage": null,
                     "id": 514150017,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-15T14:54:26Z",
+                    "open_issues": 2,
                     "owner": "shipcod3",
                     "repo": "canTot",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": [
+                      "automotive-security",
+                      "canbus",
+                      "car-hacking"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -718,12 +1158,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CAN of Fingers (c0f) creates passive fingerprints of Make and Model over CAN bus",
+                    "homepage": null,
                     "id": 29004646,
                     "language": "Ruby",
+                    "license": "GPL-2.0",
                     "last_commit": "2015-09-29T15:35:34Z",
+                    "open_issues": 1,
                     "owner": "zombieCraig",
                     "repo": "c0f",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -734,12 +1179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork of a friendly car security exploration tool for the CAN bus",
+                    "homepage": null,
                     "id": 421821336,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-13T09:26:04Z",
+                    "open_issues": 0,
                     "owner": "Cr0wTom",
                     "repo": "caringcaribounext",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -750,12 +1200,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stream-first CAN & J1939 toolkit for security research and AI agents — typed JSONL events, CLI, TUI, fuzzing, MCP server.",
+                    "homepage": "https://hexsecs.github.io/canarchy/",
                     "id": 1213099273,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-05T20:19:06Z",
+                    "open_issues": 5,
                     "owner": "hexsecs",
                     "repo": "canarchy",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "automotive-security",
+                      "can-bus",
+                      "can-bus-hacking",
+                      "can-bus-security",
+                      "car-hacking",
+                      "cli",
+                      "doip",
+                      "fuzzing",
+                      "fuzzing-tool",
+                      "iso-tp",
+                      "j1939",
+                      "mcp",
+                      "mcp-server",
+                      "python",
+                      "reverse-engineering",
+                      "security",
+                      "security-tools",
+                      "socketcan",
+                      "tui",
+                      "uds"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 }
@@ -773,12 +1249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "CAN Device Vehicle Research Server (OpenGarages.org)",
+                    "homepage": null,
                     "id": 5719059,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2013-09-30T19:59:49Z",
+                    "open_issues": 6,
                     "owner": "Hive13",
                     "repo": "CANiBUS",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 },
@@ -789,12 +1270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Software for the CAN bus simulator on the Rasperry Pi",
+                    "homepage": null,
                     "id": 53444603,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2016-06-02T04:26:37Z",
+                    "open_issues": 1,
                     "owner": "carloop",
                     "repo": "simulator-program",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 }
@@ -812,12 +1298,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NodeJS SocketCAN extension",
+                    "homepage": null,
                     "id": 7387779,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T10:28:32Z",
+                    "open_issues": 6,
                     "owner": "sebi2k1",
                     "repo": "node-can",
-                    "stars": 246
+                    "stars": 246,
+                    "topics": [
+                      "nodejs-socketcan-extension",
+                      "socketcan"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
                 }
@@ -849,12 +1343,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Hacking tutorials, tools and resources",
+                "homepage": null,
                 "id": 28084589,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-02T22:40:13Z",
+                "open_issues": 69,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16962
+                "stars": 16964,
+                "topics": [
+                  "awesome",
+                  "hacking"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -865,12 +1367,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+                "homepage": null,
                 "id": 23208012,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
+                "open_issues": 316,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14805
+                "stars": 14805,
+                "topics": [
+                  "awesome-list",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -881,12 +1391,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Defund the Police.",
+                "homepage": "https://gazafunds.com/",
                 "id": 35313712,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-07T05:09:47Z",
+                "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14162
+                "stars": 14162,
+                "topics": [
+                  "analysis-framework",
+                  "automated-analysis",
+                  "awesome",
+                  "awesome-list",
+                  "chinese",
+                  "chinese-translation",
+                  "domain-analysis",
+                  "drop-ice",
+                  "dynamic-analysis",
+                  "list",
+                  "malware-analysis",
+                  "malware-collection",
+                  "malware-research",
+                  "malware-samples",
+                  "network-traffic",
+                  "static-analysis",
+                  "threat-intelligence",
+                  "threat-sharing",
+                  "threatintel"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -897,12 +1432,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of CTF frameworks, libraries, resources and softwares",
+                "homepage": "https://apsdehal.in/awesome-ctf/",
                 "id": 31452467,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2024-07-22T19:59:35Z",
+                "open_issues": 66,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11803
+                "stars": 11803,
+                "topics": [
+                  "awesome",
+                  "ctf",
+                  "penetration",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -913,12 +1458,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an awesome list of honeypot resources",
+                "homepage": null,
                 "id": 37659549,
                 "language": "Python",
+                "license": "Artistic-2.0",
                 "last_commit": "2026-06-01T14:15:45Z",
+                "open_issues": 23,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10536
+                "stars": 10537,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "honeyd",
+                  "honeypot",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -929,12 +1485,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of android security related resources",
+                "homepage": null,
                 "id": 22117770,
                 "language": "Makefile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T18:33:19Z",
+                "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9648
+                "stars": 9649,
+                "topics": [
+                  "android",
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -945,12 +1512,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of tools for incident response",
+                "homepage": null,
                 "id": 45943554,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T10:58:26Z",
+                "open_issues": 75,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9357
+                "stars": 9357,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cybersecurity",
+                  "dfir",
+                  "incident-response",
+                  "incident-response-tooling",
+                  "list",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -961,12 +1542,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for learning about application security",
+                "homepage": "https://paragonie.com/projects",
                 "id": 34877308,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-02-22T16:39:11Z",
+                "open_issues": 40,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7046
+                "stars": 7046,
+                "topics": [
+                  "application-security",
+                  "curated",
+                  "owasp",
+                  "reading-list",
+                  "security",
+                  "security-experts"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -984,12 +1577,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500851
+                "stars": 500890,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             },
@@ -1000,12 +1604,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+                "homepage": null,
                 "id": 14408715,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
+                "open_issues": 22,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11441
+                "stars": 11441,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "curated-lists",
+                  "lists",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
             }
@@ -1016,15 +1631,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:42:30.094Z",
+    "last_updated": "2026-08-29T04:16:31.204Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
+      "homepage": null,
       "id": 64367335,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-30T00:29:18Z",
+      "open_issues": 3,
       "owner": "jaredthecoder",
       "repo": "awesome-vehicle-security",
-      "stars": 4533
+      "stars": 4533,
+      "topics": [
+        "automotive",
+        "awesome",
+        "awesome-list",
+        "car-hacking",
+        "cars",
+        "cybersecurity",
+        "hacking",
+        "hacking-vehicles",
+        "hardware",
+        "learning",
+        "security",
+        "vehicle-security"
+      ]
     },
     "original_repository_sha": "2228c9f842d0dcf2e5dd24c987e9f5602001f8a0",
     "enhanced_repository": "enhansome/enhansome-vehicle-security",
