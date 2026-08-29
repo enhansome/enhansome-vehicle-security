@@ -6,7 +6,7 @@
 
 ***
 
-I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,533 | 🐛 3 | 📅 2026-05-30
+I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,534 | 🐛 3 | 📅 2026-05-30
 
 Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security goodness.
 
@@ -161,7 +161,7 @@ These lists are related to a specific protocol that you will find in the world o
 
 ## Newsletters
 
-[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,533 | 🐛 3 | 📅 2026-05-30!
+[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,534 | 🐛 3 | 📅 2026-05-30!
 
 ## Conferences
 
@@ -238,7 +238,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 
 # Projects
 
-* [Open Source Car Control Project](https://github.com/PolySync/OSCC) ⭐ 1,037 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
+* [Open Source Car Control Project](https://github.com/PolySync/OSCC) ⭐ 1,038 | 🐛 15 | 🌐 C++ | 📅 2019-12-10 - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 * [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) ⭐ 346 | 🐛 9 | 🌐 C | 📅 2021-08-07 - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
 * [Uptane](https://uptane.github.io/overview.html) - Uptane is an open and secure software update system design protecting software delivered over-the-air to the computerized units of automobiles and is designed to be resilient even to the best efforts of nation state attackers.
 
@@ -281,9 +281,9 @@ Overview of software, both open source and proprietary, as well as libraries fro
 
 Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
-* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,527 | 🐛 130 | 🌐 Python | 📅 2026-08-29 - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
-* [openalpr](https://github.com/openalpr/openalpr) ⭐ 11,453 | 🐛 521 | 🌐 C++ | 📅 2024-01-11 - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
-* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) ⭐ 1,030 | 🐛 64 | 🌐 C | 📅 2026-08-27 - Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).
+* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,529 | 🐛 135 | 🌐 Python | 📅 2026-08-29 - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
+* [openalpr](https://github.com/openalpr/openalpr) ⭐ 11,453 | 🐛 520 | 🌐 C++ | 📅 2024-01-11 - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
+* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) ⭐ 1,031 | 🐛 64 | 🌐 C | 📅 2026-08-27 - Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) ⭐ 794 | 🐛 3 | 🌐 Python | 📅 2022-02-21 - A security analysis toolkit for proprietary car protocols.
 * [UDSim](https://github.com/zombieCraig/UDSim/) ⭐ 334 | 🐛 4 | 🌐 C++ | 📅 2022-12-10 - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 * [CANToolz](https://github.com/eik00d/CANToolz) ⭐ 317 | 🐛 2 | 🌐 Python | 📅 2017-10-31 - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
@@ -376,21 +376,21 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 * Security
-  * [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,964 | 🐛 69 | 📅 2024-06-02
-  * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,805 | 🐛 316 | 📅 2026-01-11
-  * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,162 | 🐛 25 | 📅 2024-06-07
-  * [Capture the Flag](https://github.com/apsdehal/awesome-ctf) ⭐ 11,803 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22
+  * [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,966 | 🐛 69 | 📅 2024-06-02
+  * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,807 | 🐛 318 | 📅 2026-01-11
+  * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,163 | 🐛 25 | 📅 2024-06-07
+  * [Capture the Flag](https://github.com/apsdehal/awesome-ctf) ⭐ 11,806 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22
   * [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,537 | 🐛 23 | 🌐 Python | 📅 2026-06-01
-  * [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,649 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21
-  * [Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,357 | 🐛 75 | 📅 2026-07-15
-  * [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,046 | 🐛 40 | 🌐 PHP | 📅 2025-02-22
+  * [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,652 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21
+  * [Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,358 | 🐛 75 | 📅 2026-07-15
+  * [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,046 | 🐛 42 | 🌐 PHP | 📅 2025-02-22
 * Meta
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
-  * [lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,091 | 🐛 105 | 📅 2026-08-21
+  * [lists](https://github.com/jnv/lists) ⭐ 11,443 | 🐛 23 | 📅 2026-03-23
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,533 | 🐛 3 | 📅 2026-05-30 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,534 | 🐛 3 | 📅 2026-05-30 first.
 
 ***
 
