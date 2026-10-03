@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)",
-          "description": null,
+          "description": "iDoka/awesome-canbus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3490,
+            "stars": 3491,
             "topics": [
               "automotive",
               "automotive-security",
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Awesome LIN Bus - an awesome list just for LIN-Bus related tools (hardware, software, etc.)",
-          "description": null,
+          "description": "iDoka/awesome-linbus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6315,
+                "stars": 6313,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
@@ -125,7 +125,7 @@
             {
               "node_type": "item",
               "title": "Welcoming contributions",
-              "description": "!",
+              "description": "jaredthecoder/awesome-vehicle-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -138,7 +138,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4679,
+                "stars": 4681,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "Reverse Engineering Resources",
-              "description": null,
+              "description": "ps1337/automotive-security-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -335,7 +335,7 @@
             {
               "node_type": "item",
               "title": "CANdiy-Shield",
-              "description": null,
+              "description": "watterott/CANdiy-Shield",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,11 +378,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:15:15Z",
+                "last_commit": "2026-10-03T01:02:44Z",
                 "open_issues": 138,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63794,
+                "stars": 63796,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -425,10 +425,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T03:20:45Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
-                "stars": 1099,
+                "stars": 1098,
                 "topics": [
                   "automotive",
                   "autopilot",
@@ -855,7 +855,7 @@
                     "open_issues": 139,
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12579,
+                    "stars": 12580,
                     "topics": [
                       "hacktoberfest",
                       "network",
@@ -892,7 +892,7 @@
                     "open_issues": 119,
                     "owner": "cantools",
                     "repo": "cantools",
-                    "stars": 2292,
+                    "stars": 2293,
                     "topics": [
                       "arxml",
                       "can-bus",
@@ -1003,7 +1003,7 @@
                     "open_issues": 14,
                     "owner": "CaringCaribou",
                     "repo": "caringcaribou",
-                    "stars": 952,
+                    "stars": 953,
                     "topics": [
                       "can-bus",
                       "ecu",
@@ -1340,7 +1340,7 @@
             {
               "node_type": "item",
               "title": "Hacking",
-              "description": null,
+              "description": "carpedm20/awesome-hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1364,7 +1364,7 @@
             {
               "node_type": "item",
               "title": "Security",
-              "description": null,
+              "description": "sbilly/awesome-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1377,7 +1377,7 @@
                 "open_issues": 350,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14928,
+                "stars": 14930,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1388,7 +1388,7 @@
             {
               "node_type": "item",
               "title": "Malware Analysis",
-              "description": null,
+              "description": "rshipp/awesome-malware-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1401,7 +1401,7 @@
                 "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14236,
+                "stars": 14237,
                 "topics": [
                   "analysis-framework",
                   "automated-analysis",
@@ -1429,7 +1429,7 @@
             {
               "node_type": "item",
               "title": "Capture the Flag",
-              "description": null,
+              "description": "apsdehal/awesome-ctf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1442,7 +1442,7 @@
                 "open_issues": 70,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11878,
+                "stars": 11881,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1455,7 +1455,7 @@
             {
               "node_type": "item",
               "title": "Honeypots",
-              "description": null,
+              "description": "paralax/awesome-honeypots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1468,7 +1468,7 @@
                 "open_issues": 30,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10576,
+                "stars": 10579,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1482,7 +1482,7 @@
             {
               "node_type": "item",
               "title": "Android Security",
-              "description": null,
+              "description": "ashishb/android-security-awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1495,7 +1495,7 @@
                 "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9722,
+                "stars": 9723,
                 "topics": [
                   "android",
                   "awesome",
@@ -1509,7 +1509,7 @@
             {
               "node_type": "item",
               "title": "Incident Response",
-              "description": null,
+              "description": "meirwah/awesome-incident-response",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,7 +1522,7 @@
                 "open_issues": 88,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9426,
+                "stars": 9427,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1539,7 +1539,7 @@
             {
               "node_type": "item",
               "title": "Application Security",
-              "description": null,
+              "description": "paragonie/awesome-appsec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1552,7 +1552,7 @@
                 "open_issues": 43,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7077,
+                "stars": 7076,
                 "topics": [
                   "application-security",
                   "curated",
@@ -1574,7 +1574,7 @@
             {
               "node_type": "item",
               "title": "awesome",
-              "description": null,
+              "description": "sindresorhus/awesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1587,7 +1587,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513669,
+                "stars": 513802,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1601,7 +1601,7 @@
             {
               "node_type": "item",
               "title": "lists",
-              "description": null,
+              "description": "jnv/lists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1614,7 +1614,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11517,
+                "stars": 11520,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1632,7 +1632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:32:40.490Z",
+    "last_updated": "2026-10-03T05:14:51.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
@@ -1644,7 +1644,7 @@
       "open_issues": 7,
       "owner": "jaredthecoder",
       "repo": "awesome-vehicle-security",
-      "stars": 4679,
+      "stars": 4681,
       "topics": [
         "automotive",
         "awesome",
