@@ -6,7 +6,7 @@
 
 ***
 
-I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,710 | 🐛 7 | 📅 2026-05-30
+I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,712 | 🐛 7 | 📅 2026-05-30
 
 Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security goodness.
 
@@ -50,7 +50,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 These lists are related to a specific protocol that you will find in the world of car hacking.
 
-* [Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-canbus) ⭐ 3,510 | 🐛 11 | 📅 2026-08-07
+* [Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-canbus) ⭐ 3,511 | 🐛 11 | 📅 2026-08-07
 * [Awesome LIN Bus - an awesome list just for LIN-Bus related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-linbus) ⭐ 246 | 🐛 1 | 📅 2023-09-06
 
 # Learn
@@ -161,7 +161,7 @@ These lists are related to a specific protocol that you will find in the world o
 
 ## Newsletters
 
-[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,710 | 🐛 7 | 📅 2026-05-30!
+[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,712 | 🐛 7 | 📅 2026-05-30!
 
 ## Conferences
 
@@ -281,9 +281,9 @@ Overview of software, both open source and proprietary, as well as libraries fro
 
 Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
-* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,920 | 🐛 123 | 🌐 Python | 📅 2026-10-17 - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
-* [openalpr](https://github.com/openalpr/openalpr) ⭐ 11,469 | 🐛 520 | 🌐 C++ | 📅 2024-01-11 - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
-* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) ⭐ 1,142 | 🐛 78 | 🌐 C++ | 📅 2026-10-14 - Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).
+* [openpilot](https://github.com/commaai/openpilot) ⭐ 63,926 | 🐛 126 | 🌐 Python | 📅 2026-10-18 - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
+* [openalpr](https://github.com/openalpr/openalpr) ⭐ 11,468 | 🐛 520 | 🌐 C++ | 📅 2024-01-11 - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
+* [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) ⭐ 1,144 | 🐛 78 | 🌐 C++ | 📅 2026-10-14 - Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) ⭐ 793 | 🐛 3 | 🌐 Python | 📅 2022-02-21 - A security analysis toolkit for proprietary car protocols.
 * [UDSim](https://github.com/zombieCraig/UDSim/) ⭐ 340 | 🐛 4 | 🌐 C++ | 📅 2022-12-10 - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 * [CANToolz](https://github.com/eik00d/CANToolz) ⭐ 317 | 🐛 2 | 🌐 Python | 📅 2017-10-31 - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
@@ -308,8 +308,8 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### C
 
-* [SocketCAN Utils](https://github.com/linux-can/can-utils) ⭐ 2,937 | 🐛 60 | 🌐 C | 📅 2026-10-14 - Userspace utilites for SocketCAN on Linux.
-* [dbcc](https://github.com/howerj/dbcc) ⭐ 459 | 🐛 1 | 🌐 C | 📅 2025-10-07 - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+* [SocketCAN Utils](https://github.com/linux-can/can-utils) ⭐ 2,937 | 🐛 61 | 🌐 C | 📅 2026-10-14 - Userspace utilites for SocketCAN on Linux.
+* [dbcc](https://github.com/howerj/dbcc) ⭐ 460 | 🐛 1 | 🌐 C | 📅 2025-10-07 - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 * [vircar](https://github.com/dn5/vircar) ⭐ 159 | 🐛 2 | 🌐 C | 📅 2020-09-07 - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### C++
@@ -325,9 +325,9 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,615 | 🐛 148 | 🌐 Python | 📅 2026-10-11 - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
-* [cantools](https://github.com/eerimoq/cantools) ⭐ 2,298 | 🐛 113 | 🌐 Python | 📅 2026-10-14 Python module to decode and encode CAN messages using a DBC file
-* [Python-CAN](https://github.com/hardbyte/python-can) ⭐ 1,607 | 🐛 282 | 🌐 Python | 📅 2026-07-01 - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,616 | 🐛 148 | 🌐 Python | 📅 2026-10-18 - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
+* [cantools](https://github.com/eerimoq/cantools) ⭐ 2,300 | 🐛 113 | 🌐 Python | 📅 2026-10-14 Python module to decode and encode CAN messages using a DBC file
+* [Python-CAN](https://github.com/hardbyte/python-can) ⭐ 1,608 | 🐛 282 | 🌐 Python | 📅 2026-07-01 - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 * [Python-OBD](https://github.com/brendan-w/python-OBD) ⭐ 1,322 | 🐛 95 | 🌐 Python | 📅 2025-04-07 - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.
 * [canmatrix](https://github.com/ebroecker/canmatrix) ⭐ 1,091 | 🐛 13 | 🌐 Python | 📅 2026-10-16 Python module to work with CAN matrix files
 * [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) ⭐ 958 | 🐛 14 | 🌐 Python | 📅 2026-06-12 - Intended to be the *nmap of vehicle security*.
@@ -376,22 +376,22 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 * Security
-  * [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,283 | 🐛 74 | 📅 2024-06-02
-  * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,982 | 🐛 361 | 📅 2026-01-11
-  * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,295 | 🐛 25 | 📅 2024-06-07
-  * [Capture the Flag](https://github.com/apsdehal/awesome-ctf) ⭐ 11,928 | 🐛 72 | 🌐 JavaScript | 📅 2024-07-22
-  * [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,604 | 🐛 31 | 🌐 Python | 📅 2026-06-01
-  * [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,763 | 🐛 0 | 🌐 Makefile | 📅 2026-10-13
-  * [Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,461 | 🐛 92 | 📅 2026-10-13
-  * [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,109 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
+  * [Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,287 | 🐛 74 | 📅 2024-06-02
+  * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,984 | 🐛 361 | 📅 2026-01-11
+  * [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,297 | 🐛 25 | 📅 2024-06-07
+  * [Capture the Flag](https://github.com/apsdehal/awesome-ctf) ⭐ 11,931 | 🐛 72 | 🌐 JavaScript | 📅 2024-07-22
+  * [Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,608 | 🐛 31 | 🌐 Python | 📅 2026-06-01
+  * [Android Security](https://github.com/ashishb/android-security-awesome) ⭐ 9,765 | 🐛 0 | 🌐 Makefile | 📅 2026-10-13
+  * [Incident Response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,460 | 🐛 92 | 📅 2026-10-13
+  * [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,111 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
 * Meta
-  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,360 | 🐛 105 | 📅 2026-09-02
-  * [lists](https://github.com/jnv/lists) ⭐ 11,568 | 🐛 32 | 📅 2026-03-23
+  * [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,863 | 🐛 105 | 📅 2026-09-02
+  * [lists](https://github.com/jnv/lists) ⭐ 11,570 | 🐛 32 | 📅 2026-03-23
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,710 | 🐛 7 | 📅 2026-05-30 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) ⭐ 4,712 | 🐛 7 | 📅 2026-05-30 first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
