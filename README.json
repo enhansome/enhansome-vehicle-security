@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3577,
+            "stars": 3579,
             "topics": [
               "automotive",
               "automotive-security",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6316,
+                "stars": 6317,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
@@ -138,7 +138,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4794,
+                "stars": 4798,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -378,11 +378,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-21T20:30:44Z",
+                "last_commit": "2026-11-22T19:54:59Z",
                 "open_issues": 142,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64194,
+                "stars": 64208,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -407,7 +407,7 @@
                 "open_issues": 521,
                 "owner": "openalpr",
                 "repo": "openalpr",
-                "stars": 11488,
+                "stars": 11490,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
@@ -428,7 +428,7 @@
                 "open_issues": 85,
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
-                "stars": 1340,
+                "stars": 1343,
                 "topics": [
                   "automotive",
                   "autopilot",
@@ -652,7 +652,7 @@
                     "open_issues": 63,
                     "owner": "linux-can",
                     "repo": "can-utils",
-                    "stars": 2961,
+                    "stars": 2963,
                     "topics": [
                       "automotive",
                       "can-bus",
@@ -767,7 +767,7 @@
                     "open_issues": 20,
                     "owner": "jglim",
                     "repo": "UnlockECU",
-                    "stars": 461,
+                    "stars": 462,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:30.094Z"
@@ -855,7 +855,7 @@
                     "open_issues": 140,
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12707,
+                    "stars": 12712,
                     "topics": [
                       "network",
                       "network-analysis",
@@ -891,7 +891,7 @@
                     "open_issues": 89,
                     "owner": "cantools",
                     "repo": "cantools",
-                    "stars": 2323,
+                    "stars": 2325,
                     "topics": [
                       "arxml",
                       "can-bus",
@@ -916,8 +916,8 @@
                     "id": 69090889,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-11-21T16:10:22Z",
-                    "open_issues": 283,
+                    "last_commit": "2026-11-22T17:41:37Z",
+                    "open_issues": 273,
                     "owner": "hardbyte",
                     "repo": "python-can",
                     "stars": 1616,
@@ -1075,11 +1075,11 @@
                     "id": 1138269866,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T02:56:00Z",
-                    "open_issues": 68,
+                    "last_commit": "2026-11-22T18:40:36Z",
+                    "open_issues": 70,
                     "owner": "jumpstarter-dev",
                     "repo": "jumpstarter",
-                    "stars": 235,
+                    "stars": 236,
                     "topics": [
                       "agentic",
                       "android",
@@ -1351,7 +1351,7 @@
                 "open_issues": 72,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17558,
+                "stars": 17567,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -1375,7 +1375,7 @@
                 "open_issues": 415,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 15138,
+                "stars": 15141,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1399,7 +1399,7 @@
                 "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14451,
+                "stars": 14457,
                 "topics": [
                   "analysis-framework",
                   "automated-analysis",
@@ -1437,10 +1437,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2024-07-22T19:59:35Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 12012,
+                "stars": 12015,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1466,7 +1466,7 @@
                 "open_issues": 39,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10680,
+                "stars": 10684,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1493,7 +1493,7 @@
                 "open_issues": 1,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9845,
+                "stars": 9848,
                 "topics": [
                   "android",
                   "awesome",
@@ -1517,10 +1517,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T05:08:25Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9591,
+                "stars": 9595,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1550,7 +1550,7 @@
                 "open_issues": 44,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7152,
+                "stars": 7153,
                 "topics": [
                   "application-security",
                   "curated",
@@ -1585,7 +1585,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 540479,
+                "stars": 541036,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1612,7 +1612,7 @@
                 "open_issues": 8,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11673,
+                "stars": 11675,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:40:28.129Z",
+    "last_updated": "2026-11-22T20:50:12.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
@@ -1642,7 +1642,7 @@
       "open_issues": 7,
       "owner": "jaredthecoder",
       "repo": "awesome-vehicle-security",
-      "stars": 4794,
+      "stars": 4798,
       "topics": [
         "automotive",
         "awesome",
