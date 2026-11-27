@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3588,
+            "stars": 3589,
             "topics": [
               "automotive",
               "automotive-security",
@@ -110,7 +110,7 @@
                 "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6316,
+                "stars": 6315,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:30.094Z"
@@ -135,10 +135,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-05-30T00:29:18Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4802,
+                "stars": 4803,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -318,7 +318,7 @@
                 "open_issues": 4,
                 "owner": "latonita",
                 "repo": "arduino-canbus-monitor",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "arduino",
                   "ascii",
@@ -378,11 +378,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-26T23:13:10Z",
-                "open_issues": 149,
+                "last_commit": "2026-11-27T22:04:23Z",
+                "open_issues": 154,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64237,
+                "stars": 64246,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -425,10 +425,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-24T03:30:43Z",
-                "open_issues": 88,
+                "open_issues": 87,
                 "owner": "hypery11",
                 "repo": "flipper-tesla-fsd",
-                "stars": 1442,
+                "stars": 1479,
                 "topics": [
                   "automotive",
                   "autopilot",
@@ -470,7 +470,7 @@
                 "open_issues": 3,
                 "owner": "schutzwerk",
                 "repo": "CANalyzat0r",
-                "stars": 796,
+                "stars": 795,
                 "topics": [
                   "automotive-security",
                   "carhacking",
@@ -652,7 +652,7 @@
                     "open_issues": 63,
                     "owner": "linux-can",
                     "repo": "can-utils",
-                    "stars": 2971,
+                    "stars": 2975,
                     "topics": [
                       "automotive",
                       "can-bus",
@@ -851,8 +851,8 @@
                     "id": 43509302,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-26T23:06:11Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-11-27T05:31:19Z",
+                    "open_issues": 140,
                     "owner": "secdev",
                     "repo": "scapy",
                     "stars": 12719,
@@ -891,7 +891,7 @@
                     "open_issues": 88,
                     "owner": "cantools",
                     "repo": "cantools",
-                    "stars": 2329,
+                    "stars": 2332,
                     "topics": [
                       "arxml",
                       "can-bus",
@@ -916,11 +916,11 @@
                     "id": 69090889,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-11-26T21:38:26Z",
+                    "last_commit": "2026-11-27T09:24:19Z",
                     "open_issues": 263,
                     "owner": "hardbyte",
                     "repo": "python-can",
-                    "stars": 1624,
+                    "stars": 1627,
                     "topics": [
                       "can-bus",
                       "python"
@@ -962,7 +962,7 @@
                     "language": "Python",
                     "license": "BSD-2-Clause",
                     "last_commit": "2026-11-24T12:01:45Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "ebroecker",
                     "repo": "canmatrix",
                     "stars": 1095,
@@ -1002,7 +1002,7 @@
                     "open_issues": 14,
                     "owner": "CaringCaribou",
                     "repo": "caringcaribou",
-                    "stars": 976,
+                    "stars": 977,
                     "topics": [
                       "can-bus",
                       "ecu",
@@ -1075,11 +1075,11 @@
                     "id": 1138269866,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T21:07:37Z",
+                    "last_commit": "2026-11-27T22:22:08Z",
                     "open_issues": 74,
                     "owner": "jumpstarter-dev",
                     "repo": "jumpstarter",
-                    "stars": 236,
+                    "stars": 237,
                     "topics": [
                       "agentic",
                       "android",
@@ -1208,7 +1208,7 @@
                     "open_issues": 11,
                     "owner": "hexsecs",
                     "repo": "canarchy",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": [
                       "automotive-security",
                       "can-bus",
@@ -1351,7 +1351,7 @@
                 "open_issues": 72,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17590,
+                "stars": 17593,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -1372,10 +1372,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 426,
+                "open_issues": 428,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 15174,
+                "stars": 15183,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -1440,7 +1440,7 @@
                 "open_issues": 75,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 12029,
+                "stars": 12030,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -1466,7 +1466,7 @@
                 "open_issues": 40,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10693,
+                "stars": 10697,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1493,7 +1493,7 @@
                 "open_issues": 1,
                 "owner": "ashishb",
                 "repo": "android-security-awesome",
-                "stars": 9864,
+                "stars": 9865,
                 "topics": [
                   "android",
                   "awesome",
@@ -1517,10 +1517,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T11:28:53Z",
-                "open_issues": 118,
+                "open_issues": 120,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9612,
+                "stars": 9614,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1547,7 +1547,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-25T07:52:42Z",
-                "open_issues": 46,
+                "open_issues": 49,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
                 "stars": 7159,
@@ -1585,7 +1585,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 543404,
+                "stars": 543938,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1609,7 +1609,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-05T23:20:38Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "jnv",
                 "repo": "lists",
                 "stars": 11683,
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:20:31.647Z",
+    "last_updated": "2026-11-27T22:58:40.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
@@ -1639,10 +1639,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-30T00:29:18Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "jaredthecoder",
       "repo": "awesome-vehicle-security",
-      "stars": 4802,
+      "stars": 4803,
       "topics": [
         "automotive",
         "awesome",
